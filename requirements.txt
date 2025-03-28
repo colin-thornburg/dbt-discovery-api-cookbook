@@ -1,0 +1,22 @@
+# Core packages
+requests==2.31.0
+pandas==2.2.0
+numpy==1.26.3
+python-dotenv==1.0.0
+
+# Jupyter and notebook support
+jupyter==1.0.0
+notebook==7.0.7
+ipython==8.21.0
+ipykernel==6.29.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# Network analysis for lineage visualization
+networkx==3.2.1
+
+# Data processing
+openpyxl==3.1.2
